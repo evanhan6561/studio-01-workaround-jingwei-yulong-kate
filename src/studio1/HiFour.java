@@ -18,5 +18,9 @@ public class HiFour {
 		//
 		System.out.println("Greeting" + " " +s0 +"," +s1 + "," + s2 + "," + s3);
 
+		System.out.println("Greetings " + s0+","+s1+","+s2+", and"+s3);
+
+System.out.println("Greetings " + s0 +", " + s1 + ", " + s2 + ", and " + s3);
+
 	}
 }
